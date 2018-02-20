@@ -24,14 +24,3 @@ X-ISO4217-A3 defines a new IANA registry to keep track of identifiers for curren
 
  * 2013-05-25: [draft-stanish-x-iso4217-a3-01](https://tools.ietf.org/html/draft-stanish-x-iso4217-a3-01): Complete section on input treatment. Expand treatment of formatting and add section on prefix selection in response to feedback from Bill McQuillan. Change ISO identifier to 'Z' in response to feedback from Bill McQuillan. Add IANA notes on handling ISO duplicate assignments. Modify IANA considerations regarding code maintenance. Correct formatting and typographic errors.
  * 2012-11-13: [draft-stanish-x-iso4217-a3-00](https://tools.ietf.org/html/draft-stanish-x-iso4217-a3-00): Initial release.
-
-## Files
-
-__x-iso4217-a3-&lt;yyyymmdd-x&gt;.txt__:
- By X-ISO4217-A3 version number.
-
-__x-iso4217-a3-&lt;xx&gt;.txt__:
- By Internet Standards Draft document revision.
-
-__x-iso4217-a3-current.txt__:
- Current document.
